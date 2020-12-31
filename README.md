@@ -10,3 +10,4 @@
 
 ## Related Blog (Written in Japanese)
 
+- [Raspberry Pi と python-cec で、HDMI CEC を経由してテレビの電源ON/OFFや音量調整を行う - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/12/31/114932)
